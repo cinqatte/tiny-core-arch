@@ -184,3 +184,15 @@ To install the initial packages, follow these steps:
     ```
 
 Now, you're ready to install additional packages and continue building your minimal Linux system.
+
+---
+
+# License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+# Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request.
