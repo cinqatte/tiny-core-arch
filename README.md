@@ -189,7 +189,7 @@ Now, you're ready to install additional packages and continue building your mini
 
 # License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
